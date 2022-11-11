@@ -2,6 +2,7 @@
 This is my final project for the ML702 course at MBZUAI. It focuses on trajectory classification of two objects: drones and birds. 
 
 All the experiments are done in the .ipynb notebook. You can view it directly from the repo or follow the instructions below. 
+
 #IMPORTANT:
 DO NOT RERUN THE EXPERIMENTS, YOU MAY GET DIFFERENT RESULTS
 
