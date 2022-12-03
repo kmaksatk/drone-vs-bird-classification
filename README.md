@@ -22,3 +22,13 @@ conda install --file requirements.txt
 
 jupyter notebook
 ```
+# File descriptions
+<ul>
+  <li> basics.py - computes basic features
+  <li> glcm.py - computes glcm matrix and its features
+  <li> classifier.py - classification and grid search functions
+  <li> dataaugmenter.py - function for data augmentation
+  <li> TrajectoryFeatureExtractions+GLCM.ipynb - experiments with default data (do not rerun)
+  <li> AugmentedBasicFeatures.ipynb - computing features for augmented dataset, generates csvs in Data folder
+  <li> AugmentedTrajectoryFeatureExtractions+GLCM.ipynb - experiments with augmented data (do not rerun)
+</ul>
