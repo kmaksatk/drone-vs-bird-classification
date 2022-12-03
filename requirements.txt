@@ -5,6 +5,7 @@ _libgcc_mutex=0.1=conda_forge
 _openmp_mutex=4.5=2_gnu
 asttokens=2.1.0=pypi_0
 astunparse=1.6.3=pypi_0
+attrs=22.1.0=pypi_0
 backcall=0.2.0=pypi_0
 bzip2=1.0.8=h7f98852_4
 ca-certificates=2022.10.11=h06a4308_0
@@ -16,6 +17,7 @@ debugpy=1.6.3=pypi_0
 decorator=5.1.1=pypi_0
 entrypoints=0.4=pypi_0
 executing=1.2.0=pypi_0
+fastjsonschema=2.16.2=pypi_0
 flatbuffers=22.10.26=pypi_0
 fonttools=4.38.0=pypi_0
 gast=0.4.0=pypi_0
@@ -27,6 +29,7 @@ ipykernel=6.17.1=pypi_0
 ipython=8.6.0=pypi_0
 jedi=0.18.1=pypi_0
 joblib=1.2.0=pypi_0
+jsonschema=4.17.3=pypi_0
 jupyter-client=7.4.5=pypi_0
 jupyter-core=5.0.0=pypi_0
 keras=2.10.0=pypi_0
@@ -43,11 +46,12 @@ libuuid=2.32.1=h7f98852_1000
 libzlib=1.2.13=h166bdaf_4
 matplotlib=3.6.2=pypi_0
 matplotlib-inline=0.1.6=pypi_0
+nbformat=5.7.0=pypi_0
 ncurses=6.3=h27087fc_1
 nest-asyncio=1.5.6=pypi_0
 networkx=2.8.8=pypi_0
 numpy=1.23.4=pypi_0
-opencv-python=4.6.0.66=pypi_0
+opencv-contrib-python=4.6.0.66=pypi_0
 openssl=3.0.7=h166bdaf_0
 opt-einsum=3.3.0=pypi_0
 packaging=21.3=pypi_0
@@ -65,6 +69,7 @@ ptyprocess=0.7.0=pypi_0
 pure-eval=0.2.2=pypi_0
 pygments=2.13.0=pypi_0
 pyparsing=3.0.9=pypi_0
+pyrsistent=0.19.2=pypi_0
 python=3.9.13=h2660328_0_cpython
 python-dateutil=2.8.2=pypi_0
 pytz=2022.6=pypi_0
